@@ -1,0 +1,8 @@
+.ccls-cache/
+*.mod
+*.mod.c
+*.cmd
+*.o
+*.ko
+*.order
+*.symvers
